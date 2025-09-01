@@ -1,1 +1,4 @@
-
+[Unit]
+Description=UnicornSystem Service
+[Service]
+ExecStart=/opt/unicorn/unicorn_system
